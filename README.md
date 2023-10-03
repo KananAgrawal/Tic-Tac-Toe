@@ -31,5 +31,5 @@ If you'd like to contribute to this project, you can fork the repository, make y
 
 ## Credits
 
-This project was created by RYDAM AGRAWAL.
-- GitHub: rydam1403(https://github.com/rydam1403)
+This project was created by KANAN AGRAWAL.
+- GitHub: KananAgrawal(https://github.com/KananAgrawal)
